@@ -1,0 +1,21 @@
+*
+{
+		font-family:verdana;
+		margin:3px;
+		padding:3px;
+		color:white;
+		background:#000033;
+}
+h1
+{
+	font-size:50;
+	text-align:center;
+}
+b
+{
+	background:red;
+}
+d
+{
+	background:green;
+}
